@@ -1,1 +1,1 @@
-# data_0
+# Learning data science from zero
